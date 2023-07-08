@@ -2,5 +2,7 @@
 
 ---
 ### 🛠️ Languages and Tools I use
-<br/>
 I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**, **Bitrate Calculaor Pro** and other amazing projects that i plan on publishing as soon as possible with it, But I also use some other tools and languages too!
+<br/>
+<img align="left" alt="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
