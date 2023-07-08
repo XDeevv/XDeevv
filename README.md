@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://xdev.uno/itchio"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
+  <a href="https://xdev.uno/itch"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
 </p>
 ---
 ### 🛠️ Languages and Tools I use
