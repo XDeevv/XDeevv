@@ -19,7 +19,7 @@ I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**,
 <img align="left" alt="GIT" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="VSCODE" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="VISUAL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<br />
+<br>
 
 ---
 ### 🔗 Links you may find useful
@@ -28,5 +28,8 @@ I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**,
 - 🌐 Website: [**xdev.uno**](https://xdev.uno) *(Im still working on the website)*
 ---
 ### 📊 My github stats
+<div align="center">
 ![Xdeevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdeevv&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdeevv&layout=compact)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdeevv&layout=compact&theme=dark)
+</div>
