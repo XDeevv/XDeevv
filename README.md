@@ -26,7 +26,6 @@ I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**,
 - 📺 Youtube: [**XDev**](https://xdev.uno/yt)
 - 🧵 Twitter:  [**xdeevv_**](https://xdev.uno/twitter)
 - 🌐 Website: [**xdev.uno**](https://xdev.uno) *(Im still working on the website)*
-<br />
-
+---
 ### 📊 My github stats
 ![Xdeevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdeevv&show_icons=true&theme=transparent)
