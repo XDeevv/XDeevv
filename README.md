@@ -2,5 +2,5 @@
 
 ---
 ### 🛠️ Languages and Tools I use
-<br>
+<br/>
 I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**, **Bitrate Calculaor Pro** and other amazing projects that i plan on publishing as soon as possible with it, But I also use some other tools and languages too!
