@@ -37,6 +37,7 @@ I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**,
 - 📺 Youtube: [**XDev**](https://xdev.uno/yt)
 - 🧵 Twitter:  [**xdeevv_**](https://xdev.uno/twitter)
 - 🌐 Website: [**xdev.uno**](https://xdev.uno) *(Im still working on the website)*
+- 💻 Repo: [**Original repo**](https://github.com/XDeevv/XDeevv/)
 
 
 ---
