@@ -1,5 +1,9 @@
 **Hi there**, im **XDev**, a **14-year-old developer** and **YouTuber** with a passion for creating. I have expertise in **frontend and backend development**, desktop apps with **Maui** and **WPF**. I also know how to create stunning websites using **HTML**, **CSS**, and **JavaScript**. You can find me on **Twitter** and see my work on my **YouTube** channel.
 
+
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
+</p>
 ---
 ### 🛠️ Languages and Tools I use
 I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**, **Bitrate Calculaor Pro** and other amazing projects that i plan on publishing as soon as possible with it, But I also use some other tools and languages too!
