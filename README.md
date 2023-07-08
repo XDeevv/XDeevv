@@ -19,3 +19,10 @@ I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**,
 <img align="left" alt="GIT" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="VSCODE" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="VISUAL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<br />
+#
+
+### 🔗 Links you may find useful
+- 📺 Youtube: [**XDev**](https://xdev.uno/yt)
+- 🧵 Twitter: [**xdeevv_**](https://xdev.uno/twitter)
+- 🌐 Website: [**xdev.uno**](https://xdev.uno)
