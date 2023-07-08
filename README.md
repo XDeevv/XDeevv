@@ -24,5 +24,5 @@ I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**,
 
 ### 🔗 Links you may find useful
 - 📺 Youtube: [**XDev**](https://xdev.uno/yt)
-- 🧵 Twitter: [**xdeevv_**](https://xdev.uno/twitter)
+- 🧵 Twitter:  [**xdeevv_**](https://xdev.uno/twitter)
 - 🌐 Website: [**xdev.uno**](https://xdev.uno)
