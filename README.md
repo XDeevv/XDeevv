@@ -28,8 +28,8 @@ I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**,
 - 🌐 Website: [**xdev.uno**](https://xdev.uno) *(Im still working on the website)*
 ---
 ### 📊 My github stats
-<div align="center">
+<p align="center">
 ![Xdeevv's GitHub stats](https://github-readme-stats.vercel.app/api?username=xdeevv&show_icons=true&theme=transparent)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xdeevv&layout=compact&theme=dark)
-</div>
+</p>
