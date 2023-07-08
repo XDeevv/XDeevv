@@ -21,7 +21,6 @@ I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**,
 <img align="left" alt="VISUAL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
 
----
 ### 🔗 Links you may find useful
 - 📺 Youtube: [**XDev**](https://xdev.uno/yt)
 - 🧵 Twitter:  [**xdeevv_**](https://xdev.uno/twitter)
