@@ -29,7 +29,7 @@ I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**,
 ### 📊 My github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xdeevv&show_icons=true&theme=transparent" alt="No preview">
+  <img src="https://github-readme-stats.vercel.app/api?username=xeevv&show_icons=true&theme=transparent" alt="No preview">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdeevv&layout=compact&theme=dark" alt="No preview">
 </p>
