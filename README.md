@@ -6,4 +6,4 @@ I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**,
 
 
 <img align="left" alt="C#" width="30px" style="padding-right: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right: 2px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
