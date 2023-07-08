@@ -3,6 +3,8 @@
 
 <p align="center">
   <a href="https://xdev.uno/itch"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
+  <a href="https://xdev.uno/yt"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a href="https://xdev.uno/twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </p>
 ---
 ### 🛠️ Languages and Tools I use
