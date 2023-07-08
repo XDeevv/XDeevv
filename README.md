@@ -8,7 +8,7 @@
   <a href="https://xdev.uno/yt"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://xdev.uno/twitter"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </p>
----
+
 ### 🛠️ Languages and Tools I use
 I mainly code in ``C#`` and made projects such as **CSLog**, **Task Manager X**, **Bitrate Calculaor Pro** and other amazing projects that i plan on publishing as soon as possible with it, But I also use some other tools and languages too!
 
