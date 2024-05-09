@@ -1,9 +1,7 @@
 <img align="center" src="xdev-banner.png" alt="XDev banner"/>
 
-**Hi there**, im **XDev**, a **14-year-old developer** and **YouTuber** with a passion for creating. I have expertise in **frontend and backend development**, desktop apps with **Maui** and **WPF**. I also know how to create stunning websites using **HTML**, **CSS**, and **JavaScript**. You can find me on **Twitter** and see my work on my **YouTube** channel.
-
-Im also working on my first steam release [**Airborne**](https://xdev.uno/airborne) which im planning on releasing soon, and learning **Blender**
-
+Hello, I’m XDev, an indie gamedev known for creating Airborne, a Steam game with over 40k downloads and 700+ levels on the steam workshop. In addition to Airborne, I’ve also participated in a few game jams. Moreover, I’ve also built a few websites using HTML, CSS, Javascript and VueJS, as well as using Supabase MySql for backend. I;m also a desktop app developer that has made applications for Windows using C# and frameworks like WPF or Winforms. You can contact me using the the ‘Contact Me’ page on my website, and see my work on Twitter or the 
+‘Projects’ page.
 
 <p align="center">
   <a href="https://xdev.uno/itch"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></a>
